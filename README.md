@@ -9,7 +9,14 @@ de los cambios fenotípicos heredables que no involucran un cambio de
 nucleótidos en la secuencia de ADN. Dos de los mecanismos más estudiados en
 los cambios epigenéticos son la
 [metilación del ADN](https://es.wikipedia.org/wiki/Metilaci%C3%B3n_del_ADN) y
-la [modificación de histonas](https://es.wikipedia.org/wiki/Histona).
+la [modificación de histonas](https://es.wikipedia.org/wiki/Histona). En
+plantas modelos y cultivos, los cambios epigenéticos han sido asociados con
+cambios de expresión génica
+([Lang et al., 2017](https://doi.org/10.1073/pnas.1705233114)), interacciones
+entre chromosomas
+([Feng et al., 2014](https://doi.org/10.1016/j.molcel.2014.07.008)), y
+estabilidad genómica
+([Tsukahara et al., 2009](https://doi.org/10.1038/nature08351)), entre otras.
 
 Este curso presenta los fundamentos de la epigenética en plantas y su rol
 crucial en la evolución. La práctica del curso hace uso de diversas
