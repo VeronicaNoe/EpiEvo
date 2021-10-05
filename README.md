@@ -29,6 +29,7 @@ herramientas en R para analizar los cambios epigenéticos.
 
 ## Práctica
 
+* Introducción a Google Colaboratory [[cuaderno]( https://colab.research.google.com/github/googlecolab/colabtools/blob/master/cuadernos/TP0_espacio_de_trabajo.ipynb)]
 * Análisis de marcadores MSAP (Methylation Sensitive Amplified Polymorphism).
 * Análisis de datos obtenidos por epiGBS (Genotyping By Sequencing).
 * Análisis bioinformático de lecturas obtenidas por RRBS (Reduced
