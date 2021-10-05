@@ -29,7 +29,7 @@ herramientas en R para analizar los cambios epigenéticos.
 
 ## Práctica
 
-* Introducción a Google Colaboratory [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP0_espacio_de_trabajo.ipynb)].
+* Introducción a <abbr title="Google Colaboratory">Colab</abbr> [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP0_espacio_de_trabajo.ipynb)].
 * Marcadores MSAP (Methylation Sensitive Amplified Polymorphism) [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP1_MSAP.ipynb)].
 * Procesamiento de datos epiGBS (Genotyping By Sequencing) [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP2_epiGBS.ipynb)].
 * Procesamiento de datos RRBS (Reduced Representation Bisulfite Sequencing).
