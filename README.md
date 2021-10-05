@@ -20,7 +20,7 @@ estabilidad genómica
 
 Este curso presenta los fundamentos de la epigenética en plantas y su rol
 crucial en la evolución. La práctica del curso hace uso de diversas
-herramientas en R para analizar los cambios epigenéticos.
+herramientas en R para analizar en cambios epigenéticos en plantas.
 
 
 ## Teoría
