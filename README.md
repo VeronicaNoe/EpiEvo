@@ -3,16 +3,15 @@
 <img src="img/Epigenetic_mechanisms.png" alt="Epigenética" height="400" style="vertical-align:middle"/>
 
 La [epigenética](https://es.wikipedia.org/wiki/Epigen%C3%A9tica) es el estudio
-de cambios fenotípicos heredables que no involucran una modificación de la
-secuencia de ADN. Estos cambios frecuentemente afectan la expresión
-génica. Dos de los mecanismos más estudiados en los cambios epigenéticos son
-la [metilación del ADN](https://es.wikipedia.org/wiki/Metilaci%C3%B3n_del_ADN)
-y la [modificación de histonas](https://es.wikipedia.org/wiki/Histona).
+de los cambios fenotípicos heredables que no involucran un cambio de
+nucleótidos en la secuencia de ADN. Dos de los mecanismos más estudiados en
+los cambios epigenéticos son la
+[metilación del ADN](https://es.wikipedia.org/wiki/Metilaci%C3%B3n_del_ADN) y
+la [modificación de histonas](https://es.wikipedia.org/wiki/Histona).
 
 Este curso presenta los fundamentos de la epigenética en plantas y su rol
-crucial en su evolución. La práctica del curso hace uso de diversas
-herramientas en R para realizar análisis de datos reales de secuenciación y
-metutilizando.
+crucial en la evolución. La práctica del curso hace uso de diversas
+herramientas en R para analizar los cambios epigenéticos.
 
 
 ## Teoría
