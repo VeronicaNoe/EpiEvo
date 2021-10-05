@@ -19,8 +19,13 @@ estabilidad genómica
 ([Tsukahara et al., 2009](https://doi.org/10.1038/nature08351)), entre otras.
 
 Este curso presenta los fundamentos de la epigenética en plantas y su rol
-crucial en la evolución. La práctica del curso hace uso de diversas
-herramientas en R para analizar en cambios epigenéticos en plantas.
+crucial en la evolución. La práctica del curso ofrece una visión en
+profundidad del análisis de datos de secuenciación con bisulfito. Los
+prácticos están completamente liberados y diseñados para ser ejecutados en
+Google Collaboratory utilizando diversas herramientas en R para comenzar con
+el análisis de datos crudos de secuenciación, la identificación cuantitativa
+de cambios de metilación, y terminando con el análisis estadístico del impacto
+de dichos cambios.
 
 
 ## Teoría
