@@ -29,11 +29,11 @@ herramientas en R para analizar los cambios epigenéticos.
 
 ## Práctica
 
-* Introducción a Colab [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP0_espacio_de_trabajo.ipynb)].
-* Marcadores MSAP [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP1_MSAP.ipynb)].
-* Procesamiento de datos epiGBS [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP2_epiGBS.ipynb)].
-* Procesamiento de datos RRBS [[cuaderno]()].
-* Análisis de datos de pequeños ARNs (small RNA) [[cuaderno]()].
+0. Introducción a Colab [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP0_espacio_de_trabajo.ipynb)].
+1. Marcadores MSAP [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP1_MSAP.ipynb)].
+2. Procesamiento de datos epiGBS [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP2_epiGBS.ipynb)].
+3. Procesamiento de datos RRBS [[cuaderno]()].
+4. Análisis de datos de pequeños ARNs (small RNA) [[cuaderno]()].
 
 
 ## Docentes
