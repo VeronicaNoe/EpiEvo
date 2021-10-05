@@ -6,9 +6,10 @@
 
 La [epigenética](https://es.wikipedia.org/wiki/Epigen%C3%A9tica) es el estudio
 de los cambios fenotípicos heredables que no involucran un cambio de
-nucleótidos en la secuencia de ADN. Estos cambios suelen ser producidos por la
+nucleótidos en la secuencia de ADN. La
 [metilación del ADN](https://es.wikipedia.org/wiki/Metilaci%C3%B3n_del_ADN) y
-la [modificación de histonas](https://es.wikipedia.org/wiki/Histona). En
+la [modificación de histonas](https://es.wikipedia.org/wiki/Histona) son
+algunos de los mecanismos más estudiados involucrados en epigenética. En
 plantas modelos y cultivos, los cambios epigenéticos han sido asociados con
 cambios de expresión génica
 ([Lang et al., 2017](https://doi.org/10.1073/pnas.1705233114)), interacciones
