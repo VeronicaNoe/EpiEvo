@@ -29,12 +29,10 @@ herramientas en R para analizar los cambios epigenéticos.
 
 ## Práctica
 
-* Introducción a Google Colaboratory [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP0_espacio_de_trabajo.ipynb)]
-* Análisis de marcadores MSAP (Methylation Sensitive Amplified Polymorphism) [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP1_MSAP.ipynb)].
-* Análisis de datos obtenidos por epiGBS (Genotyping By Sequencing) [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP2_epiGBS.ipynb)].
-* Análisis bioinformático de lecturas obtenidas por RRBS (Reduced
-  Representation Bisulfite Sequencing).
-* Análisis de datos obtenidos por RRBS.
+* Introducción a Google Colaboratory [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP0_espacio_de_trabajo.ipynb)].
+* Marcadores MSAP (Methylation Sensitive Amplified Polymorphism) [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP1_MSAP.ipynb)].
+* Procesamiento de datos epiGBS (Genotyping By Sequencing) [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP2_epiGBS.ipynb)].
+* Procesamiento de datos RRBS (Reduced Representation Bisulfite Sequencing).
 * Análisis de datos de pequeños ARNs (small RNA).
 
 
