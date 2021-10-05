@@ -27,9 +27,9 @@ reales para realizar los siguientes análisis.
 ## Docentes
 
 - Dra. Verónica Noé Ibáñez, [IBAM-CONICET/UNCuyo](https://www.mendoza.conicet.gov.ar/portal/ibam/), Mendoza
-- Dr. Carlos Marfil, FCA-UNCuyo | IBAM-CONICET/UNCuyo, Mendoza
-- Dr. Ricardo Masuelli, FCA-UNCuyo | [IBAM-CONICET/UNCuyo](https://www.mendoza.conicet.gov.ar/portal/ibam/), Mendoza
-- Dr. Nicolás Cara, FCA-UNCuyo | [IBAM-CONICET/UNCuyo](https://www.mendoza.conicet.gov.ar/portal/ibam/), Mendoza
+- Dr. Carlos Marfil, [FCA-UNCuyo](http://www.fca.uncu.edu.ar/) | [IBAM-CONICET/UNCuyo](http://www.fca.uncu.edu.ar/), Mendoza
+- Dr. Ricardo Masuelli, [FCA-UNCuyo](http://www.fca.uncu.edu.ar/) | [IBAM-CONICET/UNCuyo](https://www.mendoza.conicet.gov.ar/portal/ibam/), Mendoza
+- Dr. Nicolás Cara, [FCA-UNCuyo](http://www.fca.uncu.edu.ar/) | [IBAM-CONICET/UNCuyo](https://www.mendoza.conicet.gov.ar/portal/ibam/), Mendoza
 - Dr. Alejandro Edera, [sinc(i)-CONICET/UNL](http://sinc.unl.edu.ar/), Santa Fe.
-- Dr. Sebastian Asurmendi, IABIMO-CONICET/INTA, Buenos Aires.
-- Dr. Diego Zavallo, IABIMO-CONICET/INTA, Buenos Aires.
+- Dr. Sebastian Asurmendi, [IABIMO-CONICET/INTA](https://inta.gob.ar/instdebiotecnologia), Buenos Aires.
+- Dr. Diego Zavallo, [IABIMO-CONICET/INTA](https://inta.gob.ar/instdebiotecnologia), Buenos Aires.
