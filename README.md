@@ -1,6 +1,6 @@
 # Epigenética y Evolución de Plantas
 
-<img src="./img/Epigenetic_mechanisms.png" />
+<img src="img/Epigenetic_mechanisms.png" alt="Epigenética" height="400" style="vertical-align:middle"/>
 
 La [epigenética](https://es.wikipedia.org/wiki/Epigen%C3%A9tica) es el estudio
 de cambios fenotípicos heredables que no involucran una modificación de la
