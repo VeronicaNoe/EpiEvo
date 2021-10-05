@@ -1,5 +1,9 @@
 # Epigenética y Evolución de Plantas
 
+<figure>
+<img
+src="https://en.wikipedia.org/wiki/Epigenetics#/media/File:Epigenetic_mechanisms.png" />
+
 La [epigenética](https://es.wikipedia.org/wiki/Epigen%C3%A9tica) es el estudio
 de cambios fenotípicos heredables que no involucran una modificación de la
 secuencia de ADN. Estos cambios frecuentemente afectan la expresión
@@ -11,6 +15,7 @@ Este curso presenta los fundamentos de la epigenética en plantas y su rol
 crucial en su evolución. La práctica del curso hace uso de diversas
 herramientas en R para realizar análisis de datos reales de secuenciación y
 metutilizando.
+
 
 ## Teoría
 
