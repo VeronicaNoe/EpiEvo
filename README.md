@@ -48,6 +48,11 @@ de dichos cambios.
 4. Análisis de datos de pequeños ARNs (small RNA) [[cuaderno]()].
 
 
+## Lista de correo
+
+Dudas sobre los contenidos del curso pueden ser dirigidas a la
+siguiente [lista de correo](https://groups.google.com/g/epievo21).
+
 ## Docentes
 
 - Dra. Verónica Noé Ibáñez, [IBAM-CONICET/UNCuyo](https://www.mendoza.conicet.gov.ar/portal/ibam/), Mendoza
