@@ -41,11 +41,14 @@ de dichos cambios.
 
 ## Práctica
 
-0. Introducción a Colab [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP0_espacio_de_trabajo.ipynb)].
-1. Marcadores MSAP [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP1_MSAP.ipynb)].
-2. Procesamiento de datos epiGBS [[cuaderno](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP2_epiGBS.ipynb)].
-3. Procesamiento de datos RRBS [[cuaderno]()].
-4. Análisis de datos de pequeños ARNs (small RNA) [[cuaderno]()].
+|TP |Título|Cuaderno|
+|:-:|------|:------:|
+|0|Introducción a Colab|[link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP0_espacio_de_trabajo.ipynb)|
+|1|Marcadores MSAP|[link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP1_MSAP.ipynb)|
+|2|Procesamiento de datos RRBS|[link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP2_RRBS.ipynb)|
+|3|Análisis de datos RRBS|[link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP2_RRBS.ipynb)|
+|4|Procesamiento de datos epiGBS|[link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP4_epiGBS.ipynb)|
+|5|Análisis de datos de pequeños ARNs (small RNA)|[link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP5_sRNAseq.ipynb)|
 
 
 ## Lista de correo
