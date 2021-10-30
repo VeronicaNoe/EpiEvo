@@ -1,8 +1,6 @@
-# Epigenética y Evolución de Plantas
+# Curso de Epigenética y Evolución de Plantas
 
-<p align="center">
-<img src="img/Epigenetic_mechanisms.png" alt="Epigenética" width="600"/>
-</p>
+## Introducción
 
 La [epigenética](https://es.wikipedia.org/wiki/Epigen%C3%A9tica) es el estudio
 de los cambios fenotípicos heredables que no involucran un cambio de
@@ -18,6 +16,12 @@ entre chromosomas
 estabilidad genómica
 ([Tsukahara et al., 2009](https://doi.org/10.1038/nature08351)), entre otras.
 
+<p align="center">
+<img src="img/Epigenetic_mechanisms.png" alt="Epigenética" width="600"/>
+</p>
+
+## Curso
+
 Este curso presenta los fundamentos de la epigenética en plantas y su rol
 crucial en la evolución. La práctica del curso ofrece una visión en
 profundidad del análisis de datos de secuenciación con bisulfito. Los
@@ -28,7 +32,7 @@ de cambios de metilación, y terminando con el análisis estadístico del impact
 de dichos cambios.
 
 
-## Teoría
+### Teoría
 
 *  Historia y surgimiento de la epigenética como disciplina científica.
 *  Mecanismos epigenéticos, su interrelación y enfoques experimentales para
@@ -39,7 +43,7 @@ de dichos cambios.
    distribución en poblaciones naturales y su importancia en procesos
    evolutivos y mejoramiento.
 
-## Práctica
+### Práctica
 
 |TP |Título|Cuaderno|
 |:-:|------|:------:|
