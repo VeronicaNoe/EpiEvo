@@ -20,16 +20,7 @@ estabilidad genómica
 ## Curso
 
 Este curso presenta los fundamentos de la epigenética en plantas y su rol
-crucial en la evolución. La práctica del curso ofrece una visión en
-profundidad del análisis de datos de secuenciación con bisulfito. Los
-prácticos están completamente liberados y diseñados para ser ejecutados en
-Google Collaboratory utilizando diversas herramientas en R para comenzar con
-el análisis de datos crudos de secuenciación, la identificación cuantitativa
-de cambios de metilación, y terminando con el análisis estadístico del impacto
-de dichos cambios.
-
-
-### Teoría
+crucial en la evolución tales como:
 
 *  Historia y surgimiento de la epigenética como disciplina científica.
 *  Mecanismos epigenéticos, su interrelación y enfoques experimentales para
@@ -39,6 +30,23 @@ de dichos cambios.
 *  Mecanismos epigenéticos como fuente adicional de variabilidad heredable, su
    distribución en poblaciones naturales y su importancia en procesos
    evolutivos y mejoramiento.
+
+La práctica del curso ofrece una visión en profundidad del análisis de datos
+de secuenciación con bisulfito. Los prácticos están completamente liberados y
+diseñados para ser ejecutados en Google Collaboratory utilizando diversas
+herramientas en R para comenzar con el análisis de datos crudos de
+secuenciación, la identificación cuantitativa de cambios de metilación, y
+terminando con el análisis estadístico del impacto de dichos cambios.
+
+
+### Teoría
+
+|Día|Módulo| Tema | Presentación|
+|:-:|:----:|------|:-----------:|
+|1|1|Historia y definición. La epigenética como disciplina científica||
+|1|2|Biogénesis y función de pequeños ARNs||
+|1|3|Metilación del ADN|[Link](https://docs.google.com/presentation/d/170tVCqIaPEU-do_IqqakdOulH073u8EI5Cmk5wrpYCI/edit#slide=id.gf776b9148e_0_0)|
+|1|4|Modificación postraduccional de histonas||
 
 ### Práctica
 
