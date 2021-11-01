@@ -45,11 +45,11 @@ de dichos cambios.
 |TP |Título|Cuaderno|
 |:-:|------|:------:|
 |0|Introducción a Colab|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP0_espacio_de_trabajo.ipynb)|
-|1|Marcadores MSAP| Aún no disponible |
-|2|Procesamiento de datos RRBS|Aún no disponible |
-|3|Análisis de datos RRBS|Aún no disponible |
-|4|Procesamiento de datos epiGBS|Aún no disponible |
-|5|Análisis de datos de pequeños ARNs (small RNA)|Aún no disponible |
+|1|Marcadores MSAP| Disponible pronto |
+|2|Procesamiento de datos RRBS|Disponible pronto |
+|3|Análisis de datos RRBS|Disponible pronto |
+|4|Procesamiento de datos epiGBS|Disponible pronto |
+|5|Análisis de datos de pequeños ARNs (small RNA)|Disponible pronto |
 
 
 ## Lista de correo
