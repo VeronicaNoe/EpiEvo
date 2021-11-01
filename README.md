@@ -19,8 +19,8 @@ estabilidad genómica
 
 ## Curso
 
-Este curso presenta los fundamentos de la epigenética en plantas y su rol
-crucial en la evolución tales como:
+La teoría del curso presenta los fundamentos de la epigenética en plantas y su
+rol crucial en la evolución:
 
 *  Historia y surgimiento de la epigenética como disciplina científica.
 *  Mecanismos epigenéticos, su interrelación y enfoques experimentales para
