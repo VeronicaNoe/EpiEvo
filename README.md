@@ -50,7 +50,7 @@ terminando con el análisis estadístico del impacto de dichos cambios.
 
 ### Práctica
 
-|TP |Título|Cuaderno|
+|TP |Tema|Cuaderno|
 |:-:|------|:------:|
 |0|Introducción a Colab|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP0_espacio_de_trabajo.ipynb)|
 |1|Marcadores MSAP| Disponible pronto |
