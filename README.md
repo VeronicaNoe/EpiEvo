@@ -48,11 +48,11 @@ de dichos cambios.
 |TP |Título|Cuaderno|
 |:-:|------|:------:|
 |0|Introducción a Colab|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP0_espacio_de_trabajo.ipynb)|
-|1|Marcadores MSAP|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP1_MSAP.ipynb)|
-|2|Procesamiento de datos RRBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP2_RRBS.ipynb)|
-|3|Análisis de datos RRBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP3_RRBS.ipynb)|
-|4|Procesamiento de datos epiGBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP4_epiGBS.ipynb)|
-|5|Análisis de datos de pequeños ARNs (small RNA)|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP5_sRNAseq.ipynb)|
+|1|Marcadores MSAP||
+|2|Procesamiento de datos RRBS||
+|3|Análisis de datos RRBS||
+|4|Procesamiento de datos epiGBS||
+|5|Análisis de datos de pequeños ARNs (small RNA)||
 
 
 ## Lista de correo
