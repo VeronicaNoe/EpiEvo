@@ -41,23 +41,33 @@ terminando con el análisis estadístico del impacto de dichos cambios.
 
 ### Teoría
 
-|Día|Módulo| Tema | Presentación|
-|:-:|----|------|:-----------:|
-|1|1|Historia y definición. La epigenética como disciplina científica|[Link](https://drive.google.com/file/d/1fweSgrwFSlHy4c46DBOU2EVs6mBUK2-K/view?usp=sharing)|
-|1|2A|Biogénesis y función de pequeños ARNs|[Link](https://docs.google.com/presentation/d/170tVCqIaPEU-do_IqqakdOulH073u8EI5Cmk5wrpYCI/edit?usp=sharing)|
-|1|2B|Metilación del ADN|[Link](https://drive.google.com/file/d/1PheOfX3EQHISZOfyCtml6OYrHfsUZjO9/view?usp=sharing)|
-|1|2C|Modificación postraduccional de histonas|[Link](https://drive.google.com/file/d/1d94eDFfmNGW4Gq2D9gf-ev3UDfFTUSTT/view?usp=sharing)|
+|Módulo| Tema | Presentación|Video|
+|------|------|:-----------:|:---:|
+|1|Historia y definición. La epigenética como disciplina científica|[Link](https://drive.google.com/file/d/1fweSgrwFSlHy4c46DBOU2EVs6mBUK2-K/view?usp=sharing)|[Link](https://www.youtube.com/watch?v=JshBZa1UhMU)|
+|2A|Biogénesis y función de pequeños ARNs|[Link](https://docs.google.com/presentation/d/170tVCqIaPEU-do_IqqakdOulH073u8EI5Cmk5wrpYCI/edit?usp=sharing)|[Link](https://www.youtube.com/watch?v=JGWgIa_ro8A)|
+|2B|Metilación del ADN|[Link](https://drive.google.com/file/d/1PheOfX3EQHISZOfyCtml6OYrHfsUZjO9/view?usp=sharing)|[Link](https://www.youtube.com/watch?v=TR7LNADIBic)|
+|2C|Modificación postraduccional de histonas|[Link](https://drive.google.com/file/d/1d94eDFfmNGW4Gq2D9gf-ev3UDfFTUSTT/view?usp=sharing)|[Link](https://www.youtube.com/watch?v=kXPm7GnMn5U)|
+|2D|Técnicas moleculares para el estudio de los mecanismos epigenéticos en plantas|Disponible pronto|Disponible pronto|
+|3A|Imprinting en vegetales|Disponible pronto|Disponible pronto|
+|3B|Desarrollo en vegetales: vernalización y paramutación|Disponible pronto|Disponible pronto|
+|4A|Modulación de mecanismos epigenéticos por el ambiente|Disponible pronto|Disponible pronto|
+|4B|Modulación de mecanismos epigenéticos por factores bióticos|Disponible pronto|Disponible pronto|
+|4C|Estrés genómico/Remodelación del genoma|Disponible pronto|Disponible pronto|
+|5A|Epialelos naturales|Disponible pronto|Disponible pronto|
+|5B|Hibridización interespecífica y poliploidía|Disponible pronto|Disponible pronto|
+|5C|Distribución de la variabilidad epigenética en poblaciones naturales vegetales|Disponible pronto|Disponible pronto|
+|5D|Mejoramiento epigenético|Disponible pronto|Disponible pronto|
 
 ### Práctica
 
-|TP |Tema|Cuaderno|
-|:-:|------|:------:|
-|0|Introducción a Colab|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP0_espacio_de_trabajo.ipynb)|
-|1|Marcadores MSAP| Disponible pronto |
-|2|Procesamiento de datos RRBS|Disponible pronto |
-|3|Análisis de datos RRBS|Disponible pronto |
-|4|Procesamiento de datos epiGBS|Disponible pronto |
-|5|Análisis de datos de pequeños ARNs (small RNA)|Disponible pronto |
+|TP |Tema|Cuaderno|Video|
+|:-:|----|:------:|:---:|
+|0|Introducción a Colab|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP0_espacio_de_trabajo.ipynb)|[Link](https://www.youtube.com/watch?v=SGhxVmaSjIs)|
+|1|Marcadores MSAP| Disponible pronto | Disponible pronto|Disponible pronto|
+|2|Procesamiento de datos RRBS|Disponible pronto |Disponible pronto|Disponible pronto|
+|3|Análisis de datos RRBS|Disponible pronto |Disponible pronto|Disponible pronto|
+|4|Procesamiento de datos epiGBS|Disponible pronto |Disponible pronto|Disponible pronto|
+|5|Análisis de datos de pequeños ARNs (small RNA)|Disponible pronto |Disponible pronto|Disponible pronto|
 
 
 ## Lista de correo
