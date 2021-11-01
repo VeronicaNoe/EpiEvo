@@ -44,9 +44,9 @@ terminando con el análisis estadístico del impacto de dichos cambios.
 |Módulo| Tema | Presentación|Video|
 |------|------|:-----------:|:---:|
 |1|Historia y definición. La epigenética como disciplina científica|[Link](https://drive.google.com/file/d/1fweSgrwFSlHy4c46DBOU2EVs6mBUK2-K/view?usp=sharing)|[Link](https://www.youtube.com/watch?v=JshBZa1UhMU)|
-|2A|Biogénesis y función de pequeños ARNs|[Link](https://docs.google.com/presentation/d/170tVCqIaPEU-do_IqqakdOulH073u8EI5Cmk5wrpYCI/edit?usp=sharing)|[Link](https://www.youtube.com/watch?v=JGWgIa_ro8A)|
-|2B|Metilación del ADN|[Link](https://drive.google.com/file/d/1PheOfX3EQHISZOfyCtml6OYrHfsUZjO9/view?usp=sharing)|[Link](https://www.youtube.com/watch?v=TR7LNADIBic)|
-|2C|Modificación postraduccional de histonas|[Link](https://drive.google.com/file/d/1d94eDFfmNGW4Gq2D9gf-ev3UDfFTUSTT/view?usp=sharing)|[Link](https://www.youtube.com/watch?v=kXPm7GnMn5U)|
+|2A|Biogénesis y función de pequeños ARNs|[Link](https://drive.google.com/file/d/1d94eDFfmNGW4Gq2D9gf-ev3UDfFTUSTT/view?usp=sharing)|[Link](https://www.youtube.com/watch?v=JGWgIa_ro8A)|
+|2B|Metilación del ADN|[Link](https://docs.google.com/presentation/d/170tVCqIaPEU-do_IqqakdOulH073u8EI5Cmk5wrpYCI/edit?usp=sharing)|[Link](https://www.youtube.com/watch?v=TR7LNADIBic)|
+|2C|Modificación postraduccional de histonas|[Link](https://drive.google.com/file/d/1PheOfX3EQHISZOfyCtml6OYrHfsUZjO9/view?usp=sharing)|[Link](https://www.youtube.com/watch?v=kXPm7GnMn5U)|
 |2D|Técnicas moleculares para el estudio de los mecanismos epigenéticos en plantas|Disponible pronto|Disponible pronto|
 |3A|Imprinting en vegetales|Disponible pronto|Disponible pronto|
 |3B|Desarrollo en vegetales: vernalización y paramutación|Disponible pronto|Disponible pronto|
