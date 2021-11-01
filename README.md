@@ -16,9 +16,6 @@ entre chromosomas
 estabilidad genómica
 ([Tsukahara et al., 2009](https://doi.org/10.1038/nature08351)), entre otras.
 
-<p align="center">
-<img src="img/Epigenetic_mechanisms.png" alt="Epigenética" width="600"/>
-</p>
 
 ## Curso
 
