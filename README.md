@@ -44,7 +44,7 @@ terminando con el análisis estadístico del impacto de dichos cambios.
 |Día|Módulo| Tema | Presentación|
 |:-:|----|------|:-----------:|
 |1|1|Historia y definición. La epigenética como disciplina científica||
-|1|2A|Biogénesis y función de pequeños ARNs||
+|1|2A|Biogénesis y función de pequeños ARNs|[Link](https://drive.google.com/file/d/1d94eDFfmNGW4Gq2D9gf-ev3UDfFTUSTT/view?usp=sharing)|
 |1|2B|Metilación del ADN|[Link](https://docs.google.com/presentation/d/170tVCqIaPEU-do_IqqakdOulH073u8EI5Cmk5wrpYCI/edit#slide=id.gf776b9148e_0_0)|
 |1|2C|Modificación postraduccional de histonas||
 
