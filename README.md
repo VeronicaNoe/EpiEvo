@@ -33,7 +33,7 @@ cuantitativa de cambios de metilación.
 |2A|Biogénesis y función de pequeños ARNs|[Link](https://drive.google.com/file/d/1d94eDFfmNGW4Gq2D9gf-ev3UDfFTUSTT/view?usp=sharing)|[Link](https://www.youtube.com/watch?v=JGWgIa_ro8A)|
 |2B|Metilación del ADN|[Link](https://docs.google.com/presentation/d/170tVCqIaPEU-do_IqqakdOulH073u8EI5Cmk5wrpYCI/edit?usp=sharing)|[Link](https://www.youtube.com/watch?v=TR7LNADIBic)|
 |2C|Modificación postraduccional de histonas|[Link](https://drive.google.com/file/d/1PheOfX3EQHISZOfyCtml6OYrHfsUZjO9/view?usp=sharing)|[Link](https://www.youtube.com/watch?v=kXPm7GnMn5U)|
-|2D|Técnicas moleculares para el estudio de los mecanismos epigenéticos en plantas|[Link](https://prezi.com/view/28zV2tx9ZvyqQT0E748r/)|Disponible pronto|
+|2D|Técnicas moleculares para el estudio de los mecanismos epigenéticos en plantas|[Link](https://prezi.com/view/28zV2tx9ZvyqQT0E748r/)|[Link](https://www.youtube.com/watch?v=dItr5QuU8nk)|
 |3A|Imprinting en vegetales|Disponible pronto|Disponible pronto|
 |3B|Desarrollo en vegetales: vernalización y paramutación|Disponible pronto|Disponible pronto|
 |4A|Modulación de mecanismos epigenéticos por el ambiente|Disponible pronto|Disponible pronto|
@@ -49,7 +49,7 @@ cuantitativa de cambios de metilación.
 |TP |Tema|Cuaderno|Video|
 |:-:|----|:------:|:---:|
 |0|Introducción a Colab|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP0_espacio_de_trabajo.ipynb)|[Link](https://www.youtube.com/watch?v=SGhxVmaSjIs)|
-|1|Marcadores MSAP| [Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP1_MSAP.ipynb)|Disponible pronto|
+|1|Marcadores MSAP| [Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP1_MSAP.ipynb)|[Link](https://www.youtube.com/watch?v=82X8gc0J6Oo)|
 |2|Procesamiento de datos RRBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP2_RRBS.ipynb) |Disponible pronto|
 |3|Análisis de datos RRBS|Disponible pronto |Disponible pronto|
 |4|Procesamiento de datos epiGBS|Disponible pronto |Disponible pronto|
