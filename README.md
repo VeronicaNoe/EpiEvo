@@ -20,23 +20,9 @@ estabilidad genómica
 ## Curso
 
 La teoría del curso presenta los fundamentos de la epigenética en plantas y su
-rol crucial en la evolución:
-
-*  Historia y surgimiento de la epigenética como disciplina científica.
-*  Mecanismos epigenéticos, su interrelación y enfoques experimentales para
-   estudiarlos.
-*  Epigenética, desarrollo e imprinting genómico.
-*  Modulación de mecanismos epigenéticos por estreses bióticos y abióticos.
-*  Mecanismos epigenéticos como fuente adicional de variabilidad heredable, su
-   distribución en poblaciones naturales y su importancia en procesos
-   evolutivos y mejoramiento.
-
-La práctica del curso ofrece una visión en profundidad del análisis de datos
-de secuenciación con bisulfito. Los prácticos están completamente liberados y
-diseñados para ser ejecutados en Google Collaboratory utilizando diversas
-herramientas en R para comenzar con el análisis de datos crudos de
-secuenciación, la identificación cuantitativa de cambios de metilación, y
-terminando con el análisis estadístico del impacto de dichos cambios.
+rol crucial en la evolución. La práctica del curso ofrece una visión en
+profundidad del análisis de datos de secuenciación y la identificación
+cuantitativa de cambios de metilación.
 
 
 ### Teoría
