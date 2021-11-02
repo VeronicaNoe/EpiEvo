@@ -49,7 +49,7 @@ cuantitativa de cambios de metilación.
 |TP |Tema|Cuaderno|Video|
 |:-:|----|:------:|:---:|
 |0|Introducción a Colab|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP0_espacio_de_trabajo.ipynb)|[Link](https://www.youtube.com/watch?v=SGhxVmaSjIs)|
-|1|Marcadores MSAP| [Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP1_MSAP.ipynb)|Disponible pronto|
+|1|Marcadores MSAP| [Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP1_MSAP.ipynb)|[Link](https://www.youtube.com/watch?v=82X8gc0J6Oo)|
 |2|Procesamiento de datos RRBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP2_RRBS.ipynb) |Disponible pronto|
 |3|Análisis de datos RRBS|Disponible pronto |Disponible pronto|
 |4|Procesamiento de datos epiGBS|Disponible pronto |Disponible pronto|
