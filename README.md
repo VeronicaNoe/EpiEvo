@@ -35,7 +35,7 @@ cuantitativa de cambios de metilación.
 |2C|Modificación postraduccional de histonas|[Link](https://drive.google.com/file/d/1PheOfX3EQHISZOfyCtml6OYrHfsUZjO9/view?usp=sharing)|[Link](https://www.youtube.com/watch?v=kXPm7GnMn5U)|
 |2D|Técnicas moleculares para el estudio de los mecanismos epigenéticos en plantas|[Link](https://prezi.com/view/28zV2tx9ZvyqQT0E748r/)|[Link](https://www.youtube.com/watch?v=dItr5QuU8nk)|
 |3A|Imprinting en vegetales|[Link](https://docs.google.com/presentation/d/1nK1zycsBgnzj5BdV3OAPK54KOoDh9y26hd1fw_yw0VM/edit?usp=sharing)|Disponible pronto|
-|3B|Desarrollo en vegetales: vernalización y paramutación|Disponible pronto|Disponible pronto|
+|3B|Desarrollo en vegetales: vernalización y paramutación|[Link](https://drive.google.com/file/d/1xzqad1YEKzrmubRrwtENFfbLvOWcsyRP/view?usp=sharing)|Disponible pronto|
 |4A|Modulación de mecanismos epigenéticos por el ambiente|Disponible pronto|Disponible pronto|
 |4B|Modulación de mecanismos epigenéticos por factores bióticos|Disponible pronto|Disponible pronto|
 |4C|Estrés genómico/Remodelación del genoma|Disponible pronto|Disponible pronto|
