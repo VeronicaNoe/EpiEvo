@@ -19,8 +19,8 @@ estabilidad genómica
 
 ## Curso
 
-La teoría del curso presenta los fundamentos de la epigenética en plantas y su
-rol crucial en la evolución. La práctica del curso ofrece una visión en
+La teoría del curso presenta los fundamentos de la epigenética en plantas y se discutre el
+rol en la evolución. La práctica del curso ofrece una visión en
 profundidad del análisis de datos de secuenciación y la identificación
 cuantitativa de cambios de metilación.
 
