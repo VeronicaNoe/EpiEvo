@@ -52,7 +52,7 @@ cuantitativa de cambios de metilación.
 |1|Marcadores MSAP| [Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP1_MSAP.ipynb)|[Link](https://www.youtube.com/watch?v=82X8gc0J6Oo)|
 |2|Procesamiento de datos RRBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP2_RRBS.ipynb) |[Link](https://www.youtube.com/watch?v=pLodJ26Bfis)|
 |3|Análisis de datos RRBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP3_RRBS.ipynb) |[Link](https://youtu.be/gbhjKhWV5IQ)|
-|4|Procesamiento de datos epiGBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP4_epiGBS.ipynb)|Disponible pronto|
+|4|Procesamiento de datos epiGBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP4_epiGBS.ipynb)|[Link](https://youtu.be/MflNtRq0qBo)|
 |5|Análisis de datos de pequeños ARNs (small RNA)|Disponible pronto |Disponible pronto|
 
 
