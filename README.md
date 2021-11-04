@@ -34,9 +34,9 @@ cuantitativa de cambios de metilación.
 |2B|Metilación del ADN|[Link](https://docs.google.com/presentation/d/170tVCqIaPEU-do_IqqakdOulH073u8EI5Cmk5wrpYCI/edit?usp=sharing)|[Link](https://www.youtube.com/watch?v=TR7LNADIBic)|
 |2C|Modificación postraduccional de histonas|[Link](https://drive.google.com/file/d/1PheOfX3EQHISZOfyCtml6OYrHfsUZjO9/view?usp=sharing)|[Link](https://www.youtube.com/watch?v=kXPm7GnMn5U)|
 |2D|Técnicas moleculares para el estudio de los mecanismos epigenéticos en plantas|[Link](https://prezi.com/view/28zV2tx9ZvyqQT0E748r/)|[Link](https://www.youtube.com/watch?v=dItr5QuU8nk)|
-|3A|Imprinting en vegetales|[Link](https://docs.google.com/presentation/d/1nK1zycsBgnzj5BdV3OAPK54KOoDh9y26hd1fw_yw0VM/edit?usp=sharing)|Disponible pronto|
-|3B|Desarrollo en vegetales: vernalización y paramutación|[Link](https://drive.google.com/file/d/1xzqad1YEKzrmubRrwtENFfbLvOWcsyRP/view?usp=sharing)|Disponible pronto|
-|4A|Modulación de mecanismos epigenéticos por el ambiente|Disponible pronto|Disponible pronto|
+|3A|Imprinting en vegetales|[Link](https://docs.google.com/presentation/d/1nK1zycsBgnzj5BdV3OAPK54KOoDh9y26hd1fw_yw0VM/edit?usp=sharing)|[Link](https://youtu.be/S8ZfTzx8Vqk)|
+|3B|Desarrollo en vegetales: vernalización y paramutación|[Link](https://drive.google.com/file/d/1xzqad1YEKzrmubRrwtENFfbLvOWcsyRP/view?usp=sharing)|[Link](https://youtu.be/f7ubLbfQozY)|
+|4A|Modulación de mecanismos epigenéticos por el ambiente|[Link](https://drive.google.com/file/d/14YKWq0Otv8rsYyhC5IZ0619n2WVDApMO/view?usp=sharing)|Disponible pronto|
 |4B|Modulación de mecanismos epigenéticos por factores bióticos|Disponible pronto|Disponible pronto|
 |4C|Estrés genómico/Remodelación del genoma|Disponible pronto|Disponible pronto|
 |5A|Epialelos naturales|Disponible pronto|Disponible pronto|
@@ -51,7 +51,7 @@ cuantitativa de cambios de metilación.
 |0|Introducción a Colab|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP0_espacio_de_trabajo.ipynb)|[Link](https://www.youtube.com/watch?v=SGhxVmaSjIs)|
 |1|Marcadores MSAP| [Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP1_MSAP.ipynb)|[Link](https://www.youtube.com/watch?v=82X8gc0J6Oo)|
 |2|Procesamiento de datos RRBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP2_RRBS.ipynb) |[Link](https://www.youtube.com/watch?v=pLodJ26Bfis)|
-|3|Análisis de datos RRBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP3_RRBS.ipynb) |Disponible pronto|
+|3|Análisis de datos RRBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP3_RRBS.ipynb) |[Link](https://youtu.be/gbhjKhWV5IQ)|
 |4|Procesamiento de datos epiGBS|Disponible pronto |Disponible pronto|
 |5|Análisis de datos de pequeños ARNs (small RNA)|Disponible pronto |Disponible pronto|
 
