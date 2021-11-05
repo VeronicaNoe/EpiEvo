@@ -53,7 +53,7 @@ cuantitativa de cambios de metilación.
 |2|Procesamiento de datos RRBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP2_RRBS.ipynb) |[Link](https://www.youtube.com/watch?v=pLodJ26Bfis)|
 |3|Análisis de datos RRBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP3_RRBS.ipynb) |[Link](https://youtu.be/gbhjKhWV5IQ)|
 |4|Procesamiento de datos epiGBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP4_epiGBS.ipynb)|Disponible pronto|
-|5|Análisis de datos de pequeños ARNs (small RNA)|Disponible pronto |Disponible pronto|
+|5|Análisis de datos de pequeños ARNs (small RNA)|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP5_sRNAseq.ipynb) |Disponible pronto|
 
 
 ## Lista de correo
