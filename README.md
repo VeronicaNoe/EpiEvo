@@ -40,7 +40,7 @@ cuantitativa de cambios de metilación.
 |4B|Modulación de mecanismos epigenéticos por factores bióticos|[Link](https://drive.google.com/file/d/1qstbcR_ml-iB-11lov0SXINFQR4NZgEE/view?usp=sharing)|[Link](https://youtu.be/piw9UfNgwdo)|
 |4C|Estrés genómico/Remodelación del genoma|[Link](https://drive.google.com/file/d/1PbIdfR_Qlvu_EXS_CXpYw4LICjOqfGLW/view?usp=sharing)|[Link](https://youtu.be/YOecWKV3jXQ)|
 |5A|Epialelos naturales|[Link](https://drive.google.com/file/d/1GhG0ORQ46Mi-R1Lx89-fywuG4Ql-GP5M/view?usp=sharing)|[Link](https://youtu.be/w6N5Vf_eUJk)|
-|5B|Hibridización interespecífica y poliploidía|Disponible pronto|[Link](https://drive.google.com/file/d/1m3ASrJuE27xLmjbsJyYZIWLfxfsACF2j/view?usp=sharing)|Disponible pronto|
+|5B|Hibridización interespecífica y poliploidía|[Link](https://drive.google.com/file/d/1m3ASrJuE27xLmjbsJyYZIWLfxfsACF2j/view?usp=sharing)|Disponible pronto|
 |5C|Distribución de la variabilidad epigenética en poblaciones naturales vegetales|[Link](https://drive.google.com/file/d/1Cl-2gyVRIyTEOb9_jx40NcEFkN0YFKKW/view?usp=sharing)|Disponible pronto|Disponible pronto|
 |5D|Mejoramiento epigenético|[Link](https://drive.google.com/file/d/1QeNOSca9BFpZg4S-aLDwJvzsQHx8PsMR/view?usp=sharing)|Disponible pronto|
 
