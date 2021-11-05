@@ -43,7 +43,7 @@ cuantitativa de cambios de metilación.
 |5B|Hibridización interespecífica y poliploidía|[Link](https://drive.google.com/file/d/1m3ASrJuE27xLmjbsJyYZIWLfxfsACF2j/view?usp=sharing)|[Link](https://youtu.be/VzKKk1ln1Zw)|
 |5C|Distribución de la variabilidad epigenética en poblaciones naturales vegetales|[Link](https://drive.google.com/file/d/1Cl-2gyVRIyTEOb9_jx40NcEFkN0YFKKW/view?usp=sharing)| - |
 |5D|Mejoramiento epigenético|[Link](https://drive.google.com/file/d/1QeNOSca9BFpZg4S-aLDwJvzsQHx8PsMR/view?usp=sharing)|[Link](https://youtu.be/MhXgYJcpjn0)|
-| - |Phytochrome-mediated light perception affects fruit development and ripening through epigenetic mechanisms (Dra. Luisa F. Bermudez Salazar) | - | [Link](https://youtu.be/yljt7r7VQb4)|
+|-|Phytochrome-mediated light perception affects fruit development and ripening through epigenetic mechanisms (Dra. Luisa F. Bermudez Salazar) | - | [Link](https://youtu.be/yljt7r7VQb4)|
 
 ### Práctica
 
