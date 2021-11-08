@@ -41,9 +41,9 @@ cuantitativa de cambios de metilación.
 |4C|Estrés genómico/Remodelación del genoma|[Link](https://drive.google.com/file/d/1PbIdfR_Qlvu_EXS_CXpYw4LICjOqfGLW/view?usp=sharing)|[Link](https://youtu.be/YOecWKV3jXQ)|
 |5A|Epialelos naturales|[Link](https://drive.google.com/file/d/1GhG0ORQ46Mi-R1Lx89-fywuG4Ql-GP5M/view?usp=sharing)|[Link](https://youtu.be/w6N5Vf_eUJk)|
 |5B|Hibridización interespecífica y poliploidía|[Link](https://drive.google.com/file/d/1m3ASrJuE27xLmjbsJyYZIWLfxfsACF2j/view?usp=sharing)|[Link](https://youtu.be/VzKKk1ln1Zw)|
-|5C|Distribución de la variabilidad epigenética en poblaciones naturales vegetales|[Link](https://drive.google.com/file/d/1Cl-2gyVRIyTEOb9_jx40NcEFkN0YFKKW/view?usp=sharing)|            |
+|5C|Distribución de la variabilidad epigenética en poblaciones naturales vegetales|[Link](https://drive.google.com/file/d/1Cl-2gyVRIyTEOb9_jx40NcEFkN0YFKKW/view?usp=sharing)| - |
 |5D|Mejoramiento epigenético|[Link](https://drive.google.com/file/d/1QeNOSca9BFpZg4S-aLDwJvzsQHx8PsMR/view?usp=sharing)|[Link](https://youtu.be/MhXgYJcpjn0)|
-|  |Phytochrome-mediated light perception affects fruit development and ripening through epigenetic mechanisms (Dra. Luisa F. Bermudez Salazar) | | [Link](https://youtu.be/yljt7r7VQb4)|
+|-|Phytochrome-mediated light perception affects fruit development and ripening through epigenetic mechanisms (Dra. Luisa F. Bermudez Salazar) | - | [Link](https://youtu.be/yljt7r7VQb4)|
 
 ### Práctica
 
@@ -53,8 +53,8 @@ cuantitativa de cambios de metilación.
 |1|Marcadores MSAP| [Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP1_MSAP.ipynb)|[Link](https://www.youtube.com/watch?v=82X8gc0J6Oo)|
 |2|Procesamiento de datos RRBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP2_RRBS.ipynb) |[Link](https://www.youtube.com/watch?v=pLodJ26Bfis)|
 |3|Análisis de datos RRBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP3_RRBS.ipynb) |[Link](https://youtu.be/gbhjKhWV5IQ)|
-|4|Procesamiento de datos epiGBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP4_epiGBS.ipynb)|Disponible pronto|
-|5|Análisis de datos de pequeños ARNs (small RNA)|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP5_sRNAseq.ipynb) |Disponible pronto|
+|4|Procesamiento de datos epiGBS|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP4_epiGBS.ipynb)|[Link](https://youtu.be/MflNtRq0qBo)|
+|5|Análisis de datos de pequeños ARNs (small RNA)|[Link](https://colab.research.google.com/github/VeronicaNoe/EpiEvo/blob/main/cuadernos/TP5_sRNAseq.ipynb) |[Link](https://youtu.be/Ym4bqOmHD5I)|
 
 
 ## Lista de correo
