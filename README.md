@@ -64,10 +64,10 @@ siguiente [lista de correo](https://groups.google.com/g/epievo21).
 
 ## Docentes
 
-- Dra. Verónica Noé Ibáñez, [IBAM-CONICET/UNCuyo](https://www.mendoza.conicet.gov.ar/portal/ibam/), Mendoza
-- Dr. Carlos Marfil, [FCA-UNCuyo](http://www.fca.uncu.edu.ar/) | [INTA EEA-Mendoza](https://inta.gob.ar/mendoza), Mendoza
-- Dr. Ricardo Masuelli, [FCA-UNCuyo](http://www.fca.uncu.edu.ar/) | [IBAM-CONICET/UNCuyo](https://www.mendoza.conicet.gov.ar/portal/ibam/), Mendoza
-- Dr. Nicolás Cara, [FCA-UNCuyo](http://www.fca.uncu.edu.ar/) | [IBAM-CONICET/UNCuyo](https://www.mendoza.conicet.gov.ar/portal/ibam/), Mendoza
-- Dr. Alejandro Edera, [sinc(i)-CONICET/UNL](http://sinc.unl.edu.ar/), Santa Fe.
-- Dr. Sebastian Asurmendi, [IABIMO-CONICET/INTA](https://inta.gob.ar/instdebiotecnologia), Buenos Aires.
-- Dr. Diego Zavallo, [IABIMO-CONICET/INTA](https://inta.gob.ar/instdebiotecnologia), Buenos Aires.
+- Dra. Verónica Noé Ibáñez, [IBAM-CONICET/UNCuyo](https://www.mendoza.conicet.gov.ar/portal/ibam/), Mendoza | email: 
+- Dr. Carlos Marfil, [FCA-UNCuyo](http://www.fca.uncu.edu.ar/) | [INTA EEA-Mendoza](https://inta.gob.ar/mendoza), Mendoza | email: cmarfil@fca.uncu.edu.ar 
+- Dr. Ricardo Masuelli, [FCA-UNCuyo](http://www.fca.uncu.edu.ar/) | [IBAM-CONICET/UNCuyo](https://www.mendoza.conicet.gov.ar/portal/ibam/), Mendoza | email: rmasuelli@gmail.com 
+- Dr. Nicolás Cara, [FCA-UNCuyo](http://www.fca.uncu.edu.ar/) | [IBAM-CONICET/UNCuyo](https://www.mendoza.conicet.gov.ar/portal/ibam/), Mendoza | email: ncara@fca.uncu.edu.ar 
+- Dr. Alejandro Edera, [sinc(i)-CONICET/UNL](http://sinc.unl.edu.ar/), Santa Fe | email: aedera@sinc.unl.edu.ar 
+- Dr. Sebastian Asurmendi, [IABIMO-CONICET/INTA](https://inta.gob.ar/instdebiotecnologia), Buenos Aires | email: asurmendi.sebastian@inta.gob.ar 
+- Dr. Diego Zavallo, [IABIMO-CONICET/INTA](https://inta.gob.ar/instdebiotecnologia), Buenos Aires | email: zavallo.diego@inta.gob.ar 
