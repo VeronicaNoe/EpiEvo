@@ -64,7 +64,7 @@ siguiente [lista de correo](https://groups.google.com/g/epievo21).
 
 ## Docentes
 
-- Dra. Verónica Noé Ibáñez, [IBAM-CONICET/UNCuyo](https://www.mendoza.conicet.gov.ar/portal/ibam/), Mendoza | email: 
+- Dra. Verónica Noé Ibáñez, [IBAM-CONICET/UNCuyo](https://www.mendoza.conicet.gov.ar/portal/ibam/), Mendoza | email: veronicanoeibanez@gmail.com
 - Dr. Carlos Marfil, [FCA-UNCuyo](http://www.fca.uncu.edu.ar/) | [INTA EEA-Mendoza](https://inta.gob.ar/mendoza), Mendoza | email: cmarfil@fca.uncu.edu.ar 
 - Dr. Ricardo Masuelli, [FCA-UNCuyo](http://www.fca.uncu.edu.ar/) | [IBAM-CONICET/UNCuyo](https://www.mendoza.conicet.gov.ar/portal/ibam/), Mendoza | email: rmasuelli@gmail.com 
 - Dr. Nicolás Cara, [FCA-UNCuyo](http://www.fca.uncu.edu.ar/) | [IBAM-CONICET/UNCuyo](https://www.mendoza.conicet.gov.ar/portal/ibam/), Mendoza | email: ncara@fca.uncu.edu.ar 
